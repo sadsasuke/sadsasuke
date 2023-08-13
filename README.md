@@ -21,8 +21,9 @@ I'm a Data Scientist at **Aiforsite**  specializing in AI and machine learning. 
 - **Data Scientist at Aiforsite**, Espoo, Uusimaa, Finland (Jul 2022 - Present)
 
 ## 📫 Contact Me
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/saadazhar7/)
+- **Twitter**: [Twitter Profile](https://twitter.com/saadazhar_7)
+- **Medium**:[Medium Profile](https://medium.com/@saadazhar7)
 
 
 ## 📌 Hashtags
