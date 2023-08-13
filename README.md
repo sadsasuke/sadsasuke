@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saad Azhar!
 
-I'm a Data Scientist at **Aiforsite** with over a year of experience, specializing in AI and machine learning. I'm passionate about revolutionizing industries and creating innovative solutions. Currently, I'm working on cutting-edge AI chat language models and autonomous path-finding algorithms for the construction industry.
+I'm a Data Scientist at **Aiforsite**  specializing in AI and machine learning. I'm passionate about revolutionizing industries and creating innovative solutions. Currently, I'm working on cutting-edge AI chat language models and autonomous path-finding algorithms for the construction industry.
 
 ## 🚀 Projects
 ### Wendy - AI Chat Language Model for Construction Industry
